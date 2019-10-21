@@ -1,0 +1,19 @@
+{
+  "name": "find-anything-anywhere",
+  "version": "1.0.0",
+  "description": "A simple software where you can find the meaning of the word easily.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishek-baliyan-works/find-anything-anywhere.git"
+  },
+  "author": "Abhishek Baliyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhishek-baliyan-works/find-anything-anywhere/issues"
+  },
+  "homepage": "https://github.com/Abhishek-baliyan-works/find-anything-anywhere#readme"
+}
